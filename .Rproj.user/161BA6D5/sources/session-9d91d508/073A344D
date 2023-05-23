@@ -1,0 +1,31 @@
+{
+    "id": "073A344D",
+    "path": "~/Projects/courses/business_strategy/tf_end/tf_end.qmd",
+    "project_path": "tf_end.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1684848415568.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "39:0",
+        "cursorPosition": "2,21",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1684851402,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1684851402377,
+    "read_only": false,
+    "read_only_alternatives": []
+}
